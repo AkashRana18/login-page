@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('loginico.svg');
+    background-image: url("loginico.svg");
     animation: move 15s linear alternate infinite;
 }
 
